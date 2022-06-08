@@ -60,7 +60,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
   <div class="input-container">
     <i class="fa fa-envelope icon"></i>
-    <input class="input-field" type="text" placeholder="Email" name="email">
+    <input class="input-field" type="text" placeholder="Enter Email" name="email">
   </div>
   
   <div class="input-container">
