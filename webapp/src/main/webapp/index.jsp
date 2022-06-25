@@ -18,7 +18,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 .icon {
   padding: 10px;
   background: dodgerblue;
-  color: white;
+  color: red;
   min-width: 50px;
   text-align: center;
 }
